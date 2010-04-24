@@ -1,0 +1,4 @@
+-- (>>=) :: (Monad m) => m a -> (a -> m b) -> m b
+-- return :: (Monad m) => a -> m a
+
+-- liftM :: (Monad m) => (a1 -> r) -> m a1 -> m r
