@@ -1,3 +1,7 @@
+#!/usr/bin/runhaskell
+
+{-# LANGUAGE TemplateHaskell #-}
+
 module Main where
 
 import Sel

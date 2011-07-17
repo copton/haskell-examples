@@ -1,3 +1,7 @@
+#!/usr/bin/runhaskell -ddump-splices
+
+{-# LANGUAGE TemplateHaskell #-}
+
 module Main where
 
 -- Import our template "pr"

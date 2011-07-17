@@ -1,3 +1,5 @@
+{-# LANGUAGE TemplateHaskell #-}
+
 module Printf where
 
 -- Skeletal printf from the paper.

@@ -1,3 +1,5 @@
+{-# LANGUAGE TemplateHaskell #-}
+
 module Sel where
 
 import Language.Haskell.TH.Lib
